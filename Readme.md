@@ -26,3 +26,5 @@ Rhoom is a video chat app that allows users to connect and communicate with each
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+Check out the post [here](https://twitter.com/utks1455/status/1677277457702064128)
